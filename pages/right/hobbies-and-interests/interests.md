@@ -3,9 +3,6 @@ title: Hobbies & Interests
 date: 13:34 02/21/2014 
 
 interests:
-    - icon: camera
-      activity: Photography
-      animation: fadeIn
     - icon: mountains
       activity: Hiking
       animation: fadeIn  
@@ -24,10 +21,6 @@ interests:
     - icon: die-six
       activity: Games
       animation: fadeIn  
-    - icon: ticket
-      activity: Theatre
-      animation: fadeIn   
-
 
 taxonomy:
     category: right

@@ -8,34 +8,27 @@ column2_name: 02 Knowledge
 column2_animation: fadeIn
 
 column1:
-  - name: Adobe Photoshop
+  - name: Laravel
     level: 8
-  - name: Adobe Illustrator
+  - name: Vue
     level: 8  
-  - name: Adobe Indesign
+  - name: C#
     level: 6  
-  - name: Adobe Flash
+  - name: Java
     level: 7  
   - name: "HTML & CSS"
     level: 8 
   - name: "Javascript & Jquery"
     level: 3
-  - name: AutoCad
-    level: 8
-  - name: CATIA
-    level: 8 
-  - name: 3ds Max
-    level: 3
-  - name: Cinema 4D
-    level: 4           
+  - name: Python
+    level: 8        
 
 column2:
-  - name: Grid & Layout.
-  - name: Good sense for typography.
-  - name: Color theory knowledge.
+  - name: PHP best practice.
+  - name: Vue component design.
+  - name: Responsive.
   - name: Web usability.
   - name: Interface Design.
-  - name: Google Analytics & SEO.
     
 taxonomy:
     category: left
