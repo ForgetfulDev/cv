@@ -5,8 +5,4 @@ taxonomy:
     category: left
 ---
 
-I am eager to increase my current skill set and chase the new shiny things being released.
-
-Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. 
-
-Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. 
+I am relatively new to Software Development, however, I am curious and always eager to learn new shiny frameworks. Currently interested in learning more about managing projects as this has been my largest weak point during my first year of work. I'm currently working within web development but always willing to use any language to get the job done.
