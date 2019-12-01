@@ -11,17 +11,17 @@ column1:
   - name: Laravel
     level: 8
   - name: Vue
-    level: 8  
-  - name: C#
-    level: 6  
-  - name: Java
     level: 7  
+  - name: C#
+    level: 5  
+  - name: Java
+    level: 6  
   - name: "HTML & CSS"
-    level: 8 
-  - name: "Javascript & Jquery"
-    level: 3
+    level: 7 
+  - name: "Javascript"
+    level: 8
   - name: Python
-    level: 8        
+    level: 4        
 
 column2:
   - name: PHP best practice.
